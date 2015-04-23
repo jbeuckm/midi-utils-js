@@ -1,0 +1,25 @@
+{
+  "name": "midi-utils-js",
+  "version": "1.0.0",
+  "description": "A very simple collection of MIDI data utilities for JavaScript.",
+  "main": "midiparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhromic/midi-utils-js"
+  },
+  "keywords": [
+    "midi"
+  ],
+  "author": "Hugo Hromic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhromic/midi-utils-js/issues"
+  },
+  "homepage": "https://github.com/hhromic/midi-utils-js",
+  "dependencies": {
+    "event": "^1.0.0"
+  }
+}
